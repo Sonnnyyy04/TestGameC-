@@ -1,0 +1,14 @@
+C:\Users\eldorado\source\repos\fourInRow\fourInRow\bin\Debug\net7.0\fourInRow.exe
+C:\Users\eldorado\source\repos\fourInRow\fourInRow\bin\Debug\net7.0\fourInRow.deps.json
+C:\Users\eldorado\source\repos\fourInRow\fourInRow\bin\Debug\net7.0\fourInRow.runtimeconfig.json
+C:\Users\eldorado\source\repos\fourInRow\fourInRow\bin\Debug\net7.0\fourInRow.dll
+C:\Users\eldorado\source\repos\fourInRow\fourInRow\bin\Debug\net7.0\fourInRow.pdb
+C:\Users\eldorado\source\repos\fourInRow\fourInRow\obj\Debug\net7.0\fourInRow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldorado\source\repos\fourInRow\fourInRow\obj\Debug\net7.0\fourInRow.AssemblyInfoInputs.cache
+C:\Users\eldorado\source\repos\fourInRow\fourInRow\obj\Debug\net7.0\fourInRow.AssemblyInfo.cs
+C:\Users\eldorado\source\repos\fourInRow\fourInRow\obj\Debug\net7.0\fourInRow.csproj.CoreCompileInputs.cache
+C:\Users\eldorado\source\repos\fourInRow\fourInRow\obj\Debug\net7.0\fourInRow.dll
+C:\Users\eldorado\source\repos\fourInRow\fourInRow\obj\Debug\net7.0\refint\fourInRow.dll
+C:\Users\eldorado\source\repos\fourInRow\fourInRow\obj\Debug\net7.0\fourInRow.pdb
+C:\Users\eldorado\source\repos\fourInRow\fourInRow\obj\Debug\net7.0\fourInRow.genruntimeconfig.cache
+C:\Users\eldorado\source\repos\fourInRow\fourInRow\obj\Debug\net7.0\ref\fourInRow.dll
