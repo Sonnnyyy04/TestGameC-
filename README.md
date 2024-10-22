@@ -1,7 +1,4 @@
-### Generate function for new number in my game
-
-```C#
-static string GenerateNumber()
+```static string GenerateNumber()
     {
         Random rand = new Random();
         string number = "";
