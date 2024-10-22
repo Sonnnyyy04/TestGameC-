@@ -1,4 +1,5 @@
-```static string GenerateNumber()
+```C#
+static string GenerateNumber()
     {
         Random rand = new Random();
         string number = "";
@@ -15,6 +16,7 @@
     }
 ```
 
-### If ypu want to start game. Just write `dotnet run`
+### If you want to start game. Just write `dotnet run`
 
+### Example usage of application
 ![program example](Result.png)
