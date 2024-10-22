@@ -10,16 +10,10 @@ class Program
 
         while (number.Length < 4)
         {
-            //char digit = (char)('0' + rand.Next(0, 10)); 
             int digit = rand.Next(0, 10);
             if (!number.Contains(digit.ToString())){
                 number += digit.ToString();
             }
-            // 0 - 48 ascii
-            //if (!number.Contains(digit))
-            //{
-            //    number += digit;
-            //}
         }
         return number;
     }
