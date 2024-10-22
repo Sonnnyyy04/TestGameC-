@@ -1,4 +1,7 @@
-```static string GenerateNumber()
+### Generate function for new number in my game
+
+```C#
+static string GenerateNumber()
     {
         Random rand = new Random();
         string number = "";
@@ -14,3 +17,7 @@
         return number;
     }
 ```
+
+### If ypu want to start game. Just write `dotnet run`
+
+![program example](Result.png)
