@@ -1,3 +1,5 @@
+### Generate function for new number in my own game
+
 ```C#
 static string GenerateNumber()
     {
