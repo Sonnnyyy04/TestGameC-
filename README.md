@@ -1,4 +1,5 @@
-```static string GenerateNumber()
+```C#
+static string GenerateNumber()
     {
         Random rand = new Random();
         string number = "";
