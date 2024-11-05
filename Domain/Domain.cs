@@ -1,11 +1,5 @@
 namespace FOURINROW.Domain
 {
-    // public class User
-    // {
-    //     public string Username { get; set; }
-    //     public string PasswordHash { get; set; }
-    // }
-
     public class Game
     {
         public string SecretNumber { get; private set; }
